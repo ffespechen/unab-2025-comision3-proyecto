@@ -1,4 +1,4 @@
-# Proyecto que me hará millonario como Elon Musk
+# Proyecto que me hará millonario como Tonny Stark
 
 Usa la IA para generar cantitos de cancha que se adaptan a todas las circunstancias
 
